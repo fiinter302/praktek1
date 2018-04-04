@@ -33,6 +33,9 @@ public class Data_Sepeda_Motor_Aksi {
         Kawasaki.Warna="Hijau";
         Kawasaki.Type="Sport";
         
+        Yamaha.cetakInfo();
+        Honda.cetakInfo();
+        Kawasaki.cetakInfo();
      
     
     }
